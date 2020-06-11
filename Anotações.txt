@@ -1,0 +1,1 @@
+Com o arquivo __init__ o diretório vira um módulo (por exemplo para importação)
